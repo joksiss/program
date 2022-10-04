@@ -2,6 +2,4 @@
 
 Introduction
 
-steps
 
-first step
